@@ -6,6 +6,14 @@
 A collection of SQL projects demonstrating data analysis, reporting, and business problem-solving skills.
 # 👋 Hi, I'm Emmanuel Oyedeji
 
+## 🛠️ Tools & Technologies
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ## Data Analyst | SQL | Business Intelligence | Data Visualization
 
 Welcome to my SQL Portfolio! I am a Data Analyst with a passion for turning raw data into meaningful insights that support better business decisions.
