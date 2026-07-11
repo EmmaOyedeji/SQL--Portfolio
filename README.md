@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="58a2370d-a85d-4713-8015-325fe973f5b8.png" width="100%">
+</p>
 # SQL--Portfolio
 A collection of SQL projects demonstrating data analysis, reporting, and business problem-solving skills.
 # 👋 Hi, I'm Emmanuel Oyedeji
